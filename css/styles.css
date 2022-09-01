@@ -1,3 +1,7 @@
+div::after {
+    content: "my css practice";
+}
+
 div {
     transition: background-color 300ms;
 }
